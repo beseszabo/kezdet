@@ -1,2 +1,0 @@
-# kezdet
-tanuló projektek
